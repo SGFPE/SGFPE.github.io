@@ -1,9 +1,6 @@
-# SG FPE Team
-## FY23 Q1 RnR 
-
 <html>
     <head>
-        <title>FIRST WEBSITE</title>
+        <title>SG FPE Team</title>
         <link rel="stylesheet" type="text/css" href="css/style1.css">
     </head>
     <body background="bg.jpg">
