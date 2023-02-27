@@ -1,6 +1,7 @@
 <html>
     <head>
-        </title>SG FPE Team</title>
+        <div class="title">
+                    <h1>SG FPE TEAM</h1>
         <link rel="stylesheet" type="text/css" href="css/style1.css">
     </head>
     <body background="bg.jpg">
