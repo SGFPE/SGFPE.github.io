@@ -60,16 +60,6 @@
         <br>
         <br>
          <div class="contact" style="margin:32px 0;">
-    <h2>Get the best offers first!</h2>
-             <br>
-
-    <p>Join our newsletter.</p>
-             <br>
-    <label>E-mail</label>
-    <input class="con" type="text" placeholder="Your Email address">
-             <br>
-             <br>
-    <button type="button" class="butt">Subscribe</button>
   </div>
 
 <footer style="text-align: center">
