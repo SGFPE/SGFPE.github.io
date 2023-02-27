@@ -31,10 +31,11 @@
             <br>
          
             <div class="about" style="max-width: 800px">
-                <h1 class="us">ABOUT US</h1>
+                <h1 class="us">MESSAGE TO THE TEAM</h1>
                 <br>
                 <br>
-                <p class="haha">Regardless of the reason for your visit in Cebu (business or pleasure), Galaxy caters to your preferred lifestyle – lifestyle that demands high-tech in hotel accommodations, or lifestyle that seeks simplicity. To our business or leisure guests, hotel rooms and suites are furnished in stylish manners and fitted with telephone, air-conditioning and modern amenities including complimentary WiFi and flat screen television with cable.  Some hotel rooms and suites may also have honesty bars for guest convenience. Main Hotel and Suites provides luxury amenities with above-average Guest services attended to by 24-hour hotel staff.</p>
+                <p class="haha">Hi all, thank you everyone for attending FY23 Q1 RnR!Do check out the link below to see if your moment is being captured, 
+                 hope the time spent with us was a pleasant one.</p>
             </div>
             <br>
             <br>
