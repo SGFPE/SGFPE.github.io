@@ -56,7 +56,7 @@
         <br>
          <div class="contact" style="margin:32px 0;">
   </div>
+        <p class="text-right"> © 2023 SG FPE Team </p>
     </div>    
     </body>
-    <p class="text-right"> © 2023 SG FPE Team </p>
 </html>
