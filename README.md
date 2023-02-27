@@ -45,7 +45,6 @@
             </div>
             <br>
             <br>
-            <p class="text-right"> © 2023 SG FPE Team </p>
         <h1 style="text-decoration-color: aqua;">Photo gallery</h1>
         <br>
         <br>
@@ -59,4 +58,5 @@
   </div>
     </div>    
     </body>
+    <p class="text-right"> © 2023 SG FPE Team </p>
 </html>
