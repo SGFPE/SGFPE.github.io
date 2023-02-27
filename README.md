@@ -38,6 +38,10 @@
                  hope the time spent with us was a pleasant one.
                 <br>
                 <br>
+                <br>
+                <br>
+                <br>
+                <br>                   
                  Regards, 
                  Q1 RnR Planning Team </p>
             </div>
