@@ -34,8 +34,11 @@
                 <h1 class="us">MESSAGE TO THE TEAM</h1>
                 <br>
                 <br>
-                <p class="haha">Hi all, thank you everyone for attending FY23 Q1 RnR!Do check out the link below to see if your moment is being captured, 
-                 hope the time spent with us was a pleasant one.</p>
+                <p class="haha">Hi all, thank you everyone for attending FY23 Q1 RnR! Do check out the link below to see if your moment is being captured, 
+                 hope the time spent with us was a pleasant one.
+
+                 Regards, 
+                 Q1 RnR Planning Team </p>
             </div>
             <br>
             <br>
