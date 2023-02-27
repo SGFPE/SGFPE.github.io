@@ -8,7 +8,7 @@
         <header>
             <div class="main">
                 <div class="logo">
-                    <img src=![alt text](https://github.com/[SGFPE]/[SGFPE]/blob/[branch]/image.jpg?raw=true))>
+                    ![Team Photo!](CIMG0750.jpg)
                 </div>
                 <ul>
                 <li class="active"><a href="#">Home</a></li>
