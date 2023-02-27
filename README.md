@@ -64,20 +64,6 @@
         <br>
          <div class="contact" style="margin:32px 0;">
   </div>
-
-<footer style="text-align: center">
-  <h5 >Find Us On</h5>
-    <br>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-      <a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
-<a href="#" class="fa fa-google"></a>
-<a href="#" class="fa fa-linkedin"></a>
-      
-    </div>
-
-                  
-    
-    
+    </div>    
     </body>
 </html>
