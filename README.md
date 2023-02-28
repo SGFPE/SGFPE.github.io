@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <div class="title">
                     <h1>SG FPE TEAM</h1>
