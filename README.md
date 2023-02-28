@@ -56,7 +56,7 @@
         <br>
          <div class="contact" style="margin:32px 0;">
   </div>
-        <p class="text-right"> © 2023 SG FPE Team <a href="mailto:ap.fpe@hpe.com" target="_blank">EMAP Product Engineering</a></p>
+        <p class="text-right"> © 2023 All Rights Reserved <a href="mailto:ap.fpe@hpe.com" target="_blank">EMAP Product Engineering</a></p>
     </div>    
     </body>
 </html>
