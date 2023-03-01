@@ -40,6 +40,9 @@
                  Q1 RnR Planning Team </p>
                 <div class="logo">
                  <img src = "thankyou.jpg">
+                    <video autoplay="" muted="" loop="" id="tm-video" style="width: 943px; height: 530.438px; margin-left: 0px; margin-top: 0px;">
+                        <source src="WhatsApp Video 2023-02-25 at 18.02.34.mp4" type="video/mp4">
+                </video>
                  <source src="WhatsApp Video 2023-02-25 at 18.02.34.mp4" type="video/mp4">
             </div>
             <br>
