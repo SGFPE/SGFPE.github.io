@@ -4,7 +4,7 @@
                     <h1>SG FPE TEAM</h1>
         <link rel="stylesheet" type="text/css" href="css/style1.css">
     </head>
-    <body background="SGFPE.github.io/CIMG0750.jpg">
+    <body background="CIMG0750.JPG">
         <header>
             <div class="main">
                 <div class="logo">
