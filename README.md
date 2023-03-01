@@ -18,7 +18,7 @@
                     <h1>FY23 Q1 RnR!</h1>
                 </div>
                 <div class="button">
-                    <a href="#" class="btn"><a href="https://hpe-my.sharepoint.com/personal/chee_hpe_com1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchee%5Fhpe%5Fcom1%2FDocuments%2FR%26R%2016%20Feb%202023&ga=1" target="_blank"> LEARN MORE</a>
+                    <a href="#content" class="btn" style="color:lightgoldenrodyellow; font-weight: bolder;"><a href="https://hpe-my.sharepoint.com/personal/chee_hpe_com1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchee%5Fhpe%5Fcom1%2FDocuments%2FR%26R%2016%20Feb%202023&ga=1" target="_blank"> LEARN MORE</a>
                 </div>
         </header>
             <br>
