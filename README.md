@@ -52,7 +52,7 @@
             </div>
             <br>
             <br>
-        <h1 style="text-decoration-color: aqua;">Photo gallery</h1>
+        <h1 style="text-decoration-color: aqua;">Highlights!</h1>
         <br>
         <br>
            <div class="row">
