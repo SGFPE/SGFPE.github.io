@@ -40,6 +40,7 @@
                  Q1 RnR Planning Team </p>
                 <div class="logo">
                  <img src = "thankyou.jpg">
+                 <source src="video/fastcutLowQ.mp4" type="video/mp4">
             </div>
             <br>
             <br>
