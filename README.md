@@ -12,10 +12,6 @@
                 </div>
                 <ul>
                 <li class="active"><a href="//16.80.204.133/pe/index.html" target="_blank">Home</a></li>
-                     <li><a href="#">Services</a></li>
-                     <li><a href="#">Gallery</a></li>
-                     <li><a href="#">About</a></li>
-                     <li><a href="#">Contact</a></li>
                 </ul>
             </div>
                 <div class="title">
