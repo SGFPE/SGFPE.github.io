@@ -41,11 +41,6 @@
                 <div class="logo">
                  <img src = "thankyou.jpg">
                     <div id="tm-video-container">
-                        <video autoplay="" muted="" loop="" id="tm-video" style="width: 943px; height: 530.438px; margin-left: 0px; margin-top: 0px;">
-                             <!-- <source src="video/sunset-timelapse-video.mp4" type="video/mp4"> -->
-                                <source src="video/fastcutLowQ.mp4" type="video/mp4">
-                </video>    
-            </div>
                     <video autoplay="" muted="" loop="" id="tm-video" style="width: 943px; height: 530.438px; margin-left: 0px; margin-top: 0px;">
                         <source src="WhatsApp Video 2023-02-25 at 18.02.34.mp4" type="video/mp4">
                 </video>
