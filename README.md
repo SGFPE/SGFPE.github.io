@@ -8,7 +8,7 @@
         <header>
             <div class="main">
                 <div class="logo">
-                    ![Team Photo!](CIMG0750.jpg)
+                    <img src = CIMG0750.jpg>
                 </div>
                 <ul>
                 <li class="active"><a href="//16.80.204.133/pe/index.html" target="_blank">Home</a></li>
