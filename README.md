@@ -38,6 +38,7 @@
                 <br>                   
                  Regards, 
                  Q1 RnR Planning Team </p>
+                 <img src = "thankyou.jpg">
             </div>
             <br>
             <br>
